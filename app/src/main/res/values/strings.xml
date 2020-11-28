@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">R</string>
+    <string name="button">Kreni</string>
+    <string name="start">Gde na rucak?</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
